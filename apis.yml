@@ -34,16 +34,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-09-15'
 x-status: defunct
-x-status-reason: 'Original SPLT (Techstars-backed shared-mobility / dynamic carpooling
-  startup, acquired by Bosch circa 2018) is no longer operating. The splt.io domain
-  has been repurposed and now serves an unrelated crypto-casino affiliate site
-  (verified 2026-07-21: homepage, api.splt.io, docs.splt.io all return the same
-  "Best Bitcoin Casinos" landing page). No API, developer portal, docs, or SDK
-  surface exists to enrich.'
+x-status-reason: 'Original SPLT (Techstars-backed shared-mobility / dynamic carpooling startup, acquired
+  by Bosch circa 2018) is no longer operating. The splt.io domain has been repurposed and now serves an
+  unrelated crypto-casino affiliate site (verified 2026-07-21: homepage, api.splt.io, docs.splt.io all
+  return the same "Best Bitcoin Casinos" landing page). No API, developer portal, docs, or SDK surface
+  exists to enrich.'
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
